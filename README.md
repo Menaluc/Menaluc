@@ -1,121 +1,74 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Menaluc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+%26+Machine+Learning;Building+Real+Systems&center=true&width=500&height=45">
+  <strong>Final-year Computer Science student</strong><br>
+  Backend Developer in progress • AI • Real-world systems
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
+## About Me
+
+I’m a final-year Computer Science student with a strong interest in backend development and practical AI systems.
+
+I enjoy building end-to-end projects that connect models, APIs, and product thinking into real applications.
+
+- Backend-focused, currently strengthening **Node.js**
+- Experience in **Machine Learning** and **Deep Learning**
+- Interested in building systems from **model → API → product**
+- Fast learner with a strong problem-solving mindset
+
+---
+
+## Tech Stack
+
 <p align="center">
-  🎓 Final-year Computer Science student <br>
-  💻 Backend Developer | Node.js | AI <br>
-  🚀 From Deep Learning → REST APIs → Production Thinking
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,mysql,firebase,postman" />
 </p>
 
 ---
 
-## 🧠 About Me
+## Featured Projects
 
-<table>
-<tr>
-<td>
+### RealVision - Deepfake Detection System
 
-- 🔹 Backend Developer focused on **Node.js**
-- 🔹 Experience in **Machine Learning & Deep Learning**
-- 🔹 Building **end-to-end systems**
-- 🔹 Strong problem-solving mindset
+<p align="center">
+  <img src="images/realvision.png.png" width="760" alt="RealVision project image"/>
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <strong>AI-powered system for detecting manipulated videos using Deep Learning and Explainable AI</strong>
+</p>
+
+- Deepfake detection model for **Real vs Fake** classification
+- **Node.js REST API** for video upload and prediction
+- Integration of **Computer Vision + Backend**
+- **Grad-CAM** for model interpretability
 
 ---
 
-## ⚙️ Tech Stack
+### MyShiftApp - Shift Management System
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,mysql,firebase,pytorch,git,postman" />
+  <img src="images/myshift-manager-settings.png" width="260" alt="MyShiftApp manager settings"/>
+  <img src="images/myshift-build-schedule.png.png" width="260" alt="MyShiftApp build schedule"/>
 </p>
+
+<p align="center">
+  <strong>Android-based system for managing employee constraints and schedule generation</strong>
+</p>
+
+- **Role-based system** for Employee and Manager
+- Employee availability and constraints submission
+- Manager settings and schedule generation flow
+- Built with **Firebase** and **MVVM architecture**
 
 ---
 
-# 🚀 Featured Projects
+## Career Goal
 
----
-
-## 🔥 RealVision – Deepfake Detection System
-
-<p align="center">
-  <img src="./images/realvision-main.png" width="700"/>
-</p>
-
-<p align="center">
-  <b>AI-powered system for detecting manipulated videos using Deep Learning + Explainable AI</b>
-</p>
-
-<table>
-<tr>
-<td>
-
-- Deepfake detection model (**Real vs Fake**)
-- Node.js REST API for video upload & prediction
-- Computer Vision + Backend integration
-- Grad-CAM (Explainable AI)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📱 MyShiftApp – Shift Management System
-
-<p align="center">
-  <img src="./images/myshift-manager-settings.png" width="260"/>
-  <img src="./images/myshift-build-schedule.png" width="260"/>
-</p>
-
-<p align="center">
-  <b>System for managing employee constraints and building schedules</b>
-</p>
-
-<table>
-<tr>
-<td>
-
-- Role-based system (**Employee / Manager**)
-- Interactive availability submission
-- Schedule generation logic
-- Firebase backend + MVVM
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Career Goal
-
-<p align="center">
-  <b>Junior Backend / Software Developer</b><br>
-  Building scalable systems and learning from real-world environments
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ch-menalu/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://professional-information.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-</p>
+I’m looking for a **junior backend / software developer role** where I can continue learning, grow through real engineering work, and contribute to practical systems.
