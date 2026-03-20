@@ -54,8 +54,8 @@ I enjoy building end-to-end projects that connect models, APIs, and product thin
 ### MyShiftApp - Shift Management System
 
 <p align="center">
-  <img src="images/myshift-manager-settings.png" width="260" alt="MyShiftApp manager settings"/>
-  <img src="images/myshift-build-schedule.png.png" width="260" alt="MyShiftApp build schedule"/>
+  <img src="images/myshift-manager-settings.png.png" width="260" alt="MyShiftApp manager settings"/>
+  <img src="images/myshift-build-schedule.png" width="260" alt="MyShiftApp build schedule"/>
 </p>
 
 <p align="center">
