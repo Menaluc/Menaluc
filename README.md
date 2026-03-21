@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Menaluc</h1>
 
 <p align="center">
-    <strong>Final-year Computer Science student</strong><br>
+    <strong>Computer Science student</strong><br>
     Backend Developer in progress • AI • Real-world systems
 </p>
 
