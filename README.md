@@ -34,7 +34,9 @@ I enjoy building end-to-end projects that connect models, APIs, and product thin
 ### RealVision Backend - Video Upload & Prediction API
 
 <p align="center">
-    <img src="images/realvision.png.png" width="760" alt="RealVision project image" />
+    <img src="images/Upload successful.png" width="250" alt="Successful upload response" />
+    <img src="images/File is too large.png" width="250" alt="File too large response" />
+    <img src="images/No valid.png" width="250" alt="Invalid file response" />
 </p>
 
 <p align="center">
@@ -44,6 +46,23 @@ I enjoy building end-to-end projects that connect models, APIs, and product thin
 - Built a **Node.js REST API** for video upload and prediction flow
 - Designed to connect a trained deepfake detection model to a usable backend system
 - Focused on turning an AI project into a practical application layer
+
+---
+
+### RealVision - Deepfake Detection System
+
+<p align="center">
+    <img src="images/realvision.png.png" width="760" alt="RealVision project image" />
+</p>
+
+<p align="center">
+    <strong>Team-based AI project for deepfake video classification and explainability</strong>
+</p>
+
+- Deepfake detection model for **Real vs Fake** classification
+- Combined **Computer Vision** and **Deep Learning**
+- Applied **Grad-CAM** for model interpretability
+- Built as part of a collaborative project
 
 ---
 
@@ -65,18 +84,7 @@ I enjoy building end-to-end projects that connect models, APIs, and product thin
 
 ---
 
-### RealVision - Deepfake Detection System
 
-<p align="center">
-    <strong>Team-based AI project for deepfake video classification and explainability</strong>
-</p>
-
-- Deepfake detection model for **Real vs Fake** classification
-- Combined **Computer Vision** and **Deep Learning**
-- Applied **Grad-CAM** for model interpretability
-- Built as part of a collaborative project
-
----
 
 ## Career Goal
 
