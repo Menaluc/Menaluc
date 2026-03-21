@@ -36,7 +36,7 @@ I enjoy building end-to-end projects that connect models, APIs, and product thin
 <p align="center">
     <img src="images/Upload successful.png" width="250" alt="Successful upload response" />
     <img src="images/File is too large.png" width="250" alt="File too large response" />
-    <img src="images/No valid.png" width="250" alt="Invalid file response" />
+    <img src="images/No Valid.png" width="250" alt="Invalid file response" />
 </p>
 
 <p align="center">
