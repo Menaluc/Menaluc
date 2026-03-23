@@ -1,100 +1,54 @@
-<h1 align="center">Hi 👋 I'm Menaluc</h1>
-
+<h1 align="center">Hi I'm Menalu Chekol</h1>
 <p align="center">
-    <strong>Computer Science student</strong><br>
-    Backend Developer in progress • AI • Real-world systems
-</p>
+    <a href="https://github.com/Menaluc">GitHub</a> •
+    <a href="https://linkedin.com/in/ch-menalu">LinkedIn</a>
 
+</p>
+<p align="center">
+    <b>Computer Science student</b><br>
+    Backend-focused | AI projects | Practical systems
+</p>
 
 ---
 
 ## About Me
 
-I’m a final-year Computer Science student with a strong interest in backend development and practical AI systems.
+I’m a final-year Computer Science student with a growing focus on backend development and practical AI systems.
+I’m currently strengthening my Node.js skills by extending a deepfake detection project into a backend application.
 
-I enjoy building end-to-end projects that connect models, APIs, and product thinking into real applications.
-
-- Backend-focused, currently strengthening **Node.js**
-- Experience in **Machine Learning** and **Deep Learning**
-- Interested in building systems from **model → API → product**
-- Fast learner with a strong problem-solving mindset
+- Strengthening Node.js and Express
+- Experience in AI and deep learning projects
+- Interested in APIs, model integration, and practical systems
+- Leadership background with responsibility and teamwork
 
 ---
 
 ## Tech Stack
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,mysql,postman" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,postman" alt="Tech Stack" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### RealVision Backend - Video Upload & Prediction API
+### [RealVision Backend-Node.js Backend for Video Upload](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
+Independent backend project in progress, built with Node.js and Express as an extension of my deepfake detection project.
 
-<p align="center">
-    <img src="images/Upload successful.png" width="250" alt="Successful upload response" />
-    <img src="images/File is too large.png" width="250" alt="File too large response" />
-    <img src="images/No Valid.png" width="250" alt="Invalid file response" />
-</p>
+- Video upload and request handling
+- File validation and size-limit checks with Multer
+- Designed for future model integration
 
-<p align="center">
-    <strong>Backend system for uploading videos and returning deepfake predictions</strong>
-</p>
+### [RealVision-Deepfake Detection System](https://github.com/Menaluc/RealVision-Deepfake-Detection)
+Team-based deepfake video classification project focused on model comparison and explainability.
 
-- Built a **Node.js REST API** for video upload and prediction flow
-- Designed to connect a trained deepfake detection model to a usable backend system
-- Focused on turning an AI project into a practical application layer
+- Real-vs-fake video classification
+- Baseline vs. audio-visual model comparison
+- Grad-CAM for model interpretability
 
 ---
-
-### RealVision - Deepfake Detection System
-
-<p align="center">
-    <img src="images/realvision.png.png" width="760" alt="RealVision project image" />
-</p>
-
-<p align="center">
-    <strong>Team-based AI project for deepfake video classification and explainability</strong>
-</p>
-
-- Deepfake detection model for **Real vs Fake** classification
-- Combined **Computer Vision** and **Deep Learning**
-- Applied **Grad-CAM** for model interpretability
-- Built as part of a collaborative project
-
----
-
-### MyShiftApp - Shift Management System
-
-<p align="center">
-    <img src="images/myshift-manager-settings.png.png" width="280" alt="MyShiftApp manager settings" />
-    <img src="images/myshift-build-schedule.png" width="280" alt="MyShiftApp build schedule" />
-</p>
-
-<p align="center">
-    <strong>Android-based system for managing employee constraints and schedule generation</strong>
-</p>
-
-- Developed a **role-based Android application** in Java
-- Employees submit availability and constraints
-- Managers monitor status and run schedule generation flow
-- Built with **Firebase Authentication** and **Cloud Firestore**
-
----
-
-
 
 ## Career Goal
 
-I’m looking for a **junior backend / software developer role** where I can continue learning, grow through real
-engineering work, and contribute to practical systems.
-
----
-<p align="center">
-    <a href="https://www.linkedin.com/in/linkedin.com/in/ch-menalu">
-        <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn" />
-    </a>
-</p>
+I’m looking for a junior backend or software development role where I can keep building and grow through practical
+engineering work.
