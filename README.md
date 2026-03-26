@@ -40,9 +40,9 @@ Full-stack bookmarks manager developed with React, Node.js, Express, and SQLite,
 - Tag-based filtering and search
 - Metadata fetching for saved links
 
-### [RealVision Backend-Node.js Backend for Video Upload](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
+### [RealVision Backend-Node.js Backend](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
+Independent Node.js and Express backend developed to support a deepfake detection demo, as part of extending my deepfake detection project into a more practical system.
 
-Independent Node.js and Express backend developed for a deepfake detection demo, as part of extending my deepfake detection project into a more practical system.
 - Video upload and request handling
 - File validation and size-limit checks with Multer
 - Designed for future model integration
