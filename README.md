@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi I'm Menalu Chekol</h1>
 <p align="center">
     <a href="https://github.com/Menaluc">GitHub</a> •
@@ -6,15 +7,14 @@
 </p>
 <p align="center">
     <b>Computer Science student</b><br>
-    Backend-focused | AI projects | Practical systems
+    Backend & Full-Stack Development 
 </p>
 
 ---
 
 ## About Me
 
-I’m a final-year Computer Science student with a growing focus on backend development and practical AI systems.
-I’m currently strengthening my Node.js skills by extending a deepfake detection project into a backend application.
+I’m a final-year Computer Science student focused on backend and full-stack development. I’ve built projects in Node.js and Express, including a backend for a deepfake detection demo and a full-stack bookmarks manager. I’m interested in building practical systems with an end-to-end mindset.
 
 - Strengthening Node.js and Express
 - Experience in AI and deep learning projects
@@ -32,12 +32,21 @@ I’m currently strengthening my Node.js skills by extending a deepfake detectio
 
 ## Featured Projects
 
-### [RealVision Backend-Node.js Backend for Video Upload](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
-Independent backend project in progress, built with Node.js and Express as an extension of my deepfake detection project.
+### [Personal Bookmarks Manager](https://github.com/Menaluc/personal-bookmarks-manager)
 
+Full-stack bookmarks manager developed with React, Node.js, Express, and SQLite, designed to organize links using metadata fetching, tag-based organization, and search.
+
+- CRUD operations for bookmark management
+- Tag-based filtering and search
+- Metadata fetching for saved links
+
+### [RealVision Backend-Node.js Backend for Video Upload](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
+
+Independent Node.js and Express backend developed for a deepfake detection demo, as part of extending my deepfake detection project into a more practical system.
 - Video upload and request handling
 - File validation and size-limit checks with Multer
 - Designed for future model integration
+
 
 ### [RealVision-Deepfake Detection System](https://github.com/Menaluc/RealVision-Deepfake-Detection)
 Team-based deepfake video classification project focused on model comparison and explainability.
@@ -50,5 +59,5 @@ Team-based deepfake video classification project focused on model comparison and
 
 ## Career Goal
 
-I’m looking for a junior backend or software development role where I can keep building and grow through practical
-engineering work.
+
+I’m looking for a junior software engineering role where I can continue building and grow through practical engineering work
