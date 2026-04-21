@@ -14,7 +14,7 @@
 
 ## About Me
 
-I’m a final-year Computer Science student focused on backend and full-stack development. I’ve built projects in Node.js and Express, including a backend for a deepfake detection demo and a full-stack bookmarks manager. I’m interested in building practical systems with an end-to-end mindset.
+Computer Science student focused on backend and full-stack development. I’ve built projects in Node.js including a backend for a deepfake detection demo and a full-stack bookmarks manager. I’m interested in building practical systems with an end-to-end mindset.
 
 - Strengthening Node.js and Express
 - Experience in AI and deep learning projects
@@ -32,6 +32,21 @@ I’m a final-year Computer Science student focused on backend and full-stack de
 
 ## Featured Projects
 
+### [RealVision Backend-Node.js Backend](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
+Independent Node.js and Express backend developed to support a deepfake detection demo, as part of extending my deepfake detection project into a more practical system.
+
+- Video upload and request handling
+- File validation and size-limit checks with Multer
+- Designed for future model integration
+
+### [Smart Campus – Classroom Occupancy Detection](https://github.com/Menaluc/Smart-Campus)
+
+Team-based academic project developed as part of a course, focused on classroom occupancy detection using environmental sensor data and machine learning models.
+
+- Analyzed 20,560 environmental sensor records
+- Compared machine learning models for occupancy prediction
+- Random Forest achieved 99.1% accuracy
+
 ### [Personal Bookmarks Manager](https://github.com/Menaluc/personal-bookmarks-manager)
 
 Full-stack bookmarks manager developed with React, Node.js, Express, and SQLite, designed to organize links using metadata fetching, tag-based organization, and search.
@@ -39,13 +54,6 @@ Full-stack bookmarks manager developed with React, Node.js, Express, and SQLite,
 - CRUD operations for bookmark management
 - Tag-based filtering and search
 - Metadata fetching for saved links
-
-### [RealVision Backend-Node.js Backend](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
-Independent Node.js and Express backend developed to support a deepfake detection demo, as part of extending my deepfake detection project into a more practical system.
-
-- Video upload and request handling
-- File validation and size-limit checks with Multer
-- Designed for future model integration
 
 
 ### [RealVision-Deepfake Detection System](https://github.com/Menaluc/RealVision-Deepfake-Detection)
