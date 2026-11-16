@@ -24,7 +24,7 @@ Contributed to the MVP development, participated in a client interview to identi
 
 `AI Product Design` `User Research` `MVP Development`
 
-### EEG Feature Atlas *(in progress)*
+### [EEG Feature Atlas](https://github.com/brain-dynamics-modeling/eeg-feature-atlas) *(in progress)*
 Research project exploring EEG analysis and visualization methods to identify meaningful differences in brain signals.
 Developed in collaboration with HIT faculty, Israeli clinics, and Japanese universities.
 
