@@ -1,71 +1,47 @@
+# Hi, I'm Menalu 👋
 
-<h1 align="center">Hi I'm Menalu Chekol</h1>
-<p align="center">
-    <a href="https://github.com/Menaluc">GitHub</a> •
-    <a href="https://linkedin.com/in/ch-menalu">LinkedIn</a>
+**Software Developer** · Simplifying complexity. Building practical software.
 
-</p>
-<p align="center">
-    <b>Computer Science student</b><br>
-    Backend & Full-Stack Development 
-</p>
+Computer Science graduate from HIT, with experience as a Teaching Assistant.
+
+I enjoy solving problems, exploring how things work, and breaking down complex ideas into practical software solutions.
+
+🌱 Open to entry-level software engineering opportunities.
 
 ---
 
-## About Me
+## 🚀 Featured Projects
 
-Computer Science student focused on backend and full-stack development. I’ve built projects in Node.js including a backend for a deepfake detection demo and a full-stack bookmarks manager. I’m interested in building practical systems with an end-to-end mindset.
+### [RealVision Platform](https://github.com/Menaluc/realvision-platform)
+Full-stack deepfake detection platform built around a team-trained EfficientNet-B0 model.
+Includes APIs for video processing, inference, and Grad-CAM explanations — showing not just a prediction, but *why*. Backed by **176 automated tests**, including exact prediction parity with the original model code.
 
-- Strengthening Node.js and Express
-- Experience in AI and deep learning projects
-- Interested in APIs, model integration, and practical systems
-- Leadership background with responsibility and teamwork
+`Python` `FastAPI` `PyTorch` `React` `TypeScript`
 
----
+### Finance Insight Agent
+AI-powered MVP for financial report analysis, developed as part of the **IBM** Finance Micro-Challenge.
+Contributed to the MVP development, participated in a client interview to identify user needs, and developed design alternatives that helped shape the final solution.
 
-## Tech Stack
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,postman" alt="Tech Stack" />
-</p>
+`AI Product Design` `User Research` `MVP Development`
 
----
+### EEG Feature Atlas *(in progress)*
+Research project exploring EEG analysis and visualization methods to identify meaningful differences in brain signals.
+Developed in collaboration with HIT faculty, Israeli clinics, and Japanese universities.
 
-## Featured Projects
-
-### [RealVision Backend-Node.js Backend](https://github.com/Menaluc/Realvision-Deepfake-Detection-Backend)
-Independent Node.js and Express backend developed to support a deepfake detection demo, as part of extending my deepfake detection project into a more practical system.
-
-- Video upload and request handling
-- File validation and size-limit checks with Multer
-- Designed for future model integration
-
-### [Smart Campus – Classroom Occupancy Detection](https://github.com/Menaluc/Smart-Campus)
-
-Team-based academic project developed as part of a course, focused on classroom occupancy detection using environmental sensor data and machine learning models.
-
-- Analyzed 20,560 environmental sensor records
-- Compared machine learning models for occupancy prediction
-- Random Forest achieved 99.1% accuracy
-
-### [Personal Bookmarks Manager](https://github.com/Menaluc/personal-bookmarks-manager)
-
-Full-stack bookmarks manager developed with React, Node.js, Express, and SQLite, designed to organize links using metadata fetching, tag-based organization, and search.
-
-- CRUD operations for bookmark management
-- Tag-based filtering and search
-- Metadata fetching for saved links
-
-
-### [RealVision-Deepfake Detection System](https://github.com/Menaluc/RealVision-Deepfake-Detection)
-Team-based deepfake video classification project focused on model comparison and explainability.
-
-- Real-vs-fake video classification
-- Baseline vs. audio-visual model comparison
-- Grad-CAM for model interpretability
+`Python` `Signal Processing` `Research`
 
 ---
 
-## Career Goal
+## 🎓 Other Experience & Programs
+
+- **Teaching Assistant** — HIT · Algorithms for Multimedia and Machine Learning
+- **HandZone Leaders** — Future HIT · leadership development and industry networking
+- **AIDD — AI-Driven Development** — Future HIT · AI-assisted development workflows
 
 
-I’m looking for a junior software engineering role where I can continue building and grow through practical engineering work
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ch-menalu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menaluchekol@gmail.com)
