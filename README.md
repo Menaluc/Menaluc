@@ -12,7 +12,7 @@ I enjoy solving problems, exploring how things work, and breaking down complex i
 
 ## 🚀 Featured Projects
 
-### [RealVision Platform](https://github.com/Menaluc/realvision-platform)
+### [RealVision Deepfake Platform](https://github.com/Menaluc/realvision-deepfake-platform)
 Full-stack deepfake detection platform built around a team-trained EfficientNet-B0 model.
 Includes APIs for video processing, inference, and Grad-CAM explanations — showing not just a prediction, but *why*. Backed by **176 automated tests**, including exact prediction parity with the original model code.
 
